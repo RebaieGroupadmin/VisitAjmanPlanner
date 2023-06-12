@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+
 import React, { useState } from "react";
 import { ReactMarkdown } from "react-markdown/lib/react-markdown";
 import styled from "styled-components";
