@@ -587,11 +587,11 @@ const options = {
 
   languages: [
     { value: "en", label: "English", icon: "🇺🇸" },
+    { value: "ar", label: "Arabic", icon: "🇦🇪" },
     { value: "tr", label: "Türkçe", icon: "🇹🇷" },
     { value: "fr", label: "Français", icon: "🇫🇷" },
     { value: "es", label: "Español", icon: "🇪🇸" },
     { value: "de", label: "Deutsch", icon: "🇩🇪" },
-    { value: "it", label: "Italiano", icon: "🇮🇹" },
     { value: "pt", label: "Português", icon: "🇵🇹" },
     { value: "ru", label: "Русский", icon: "🇷🇺" },
     { value: "ja", label: "日本語", icon: "🇯🇵" },
